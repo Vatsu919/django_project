@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#some changes 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_project.settings')
     try:
